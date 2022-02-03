@@ -3,7 +3,6 @@
 // 1. While loop
 /*
 $num = 6;
-
 while ($num <= 10) {
     echo "The number is $num <br> ";
     $num++;
@@ -11,7 +10,7 @@ while ($num <= 10) {
 */
 
 
-// Exercise from 50 count by increment of 5 + Count exercise 
+// Exercise from 50 count by increment of 5 + Count exercise
 // .while
 echo "<h3>While loop</h3> <hr>";
 $x = 50;
@@ -28,8 +27,8 @@ do {
 } while ($y <= 60);
 // .switch
 echo "<h3>Switch statement for random car type</h3> <hr>";
-$mycars = array("limousine", "convertible", "minivan", "pickup", "sports car", "Formula1 car", "sedan");
-$mycar = $mycars[mt_rand(0, 6)];
+$mycars = array("limousine", "convertible", "minivan", "pickup", "sports car", "Formula1 car", "sedan", "landrover defender", "probox", "ford");
+$mycar = $mycars[mt_rand(0, 9)];
 switch ($mycar) {
     case 'limousine':
         echo "You have a $mycar , keep the drinks coming🍾";
@@ -52,6 +51,16 @@ switch ($mycar) {
     case 'sedan':
         echo "You have a $mycar , awesome car";
         break;
+    // Kibi's cases
+    case 'landrover defender':
+        echo "You have a $mycar , how is the rough terrain";
+        break;
+    case 'probox':
+        echo "You have a $mycar , how many you carrying😂";
+        break;
+    case 'nduthi':
+        echo "You have a $mycar , nduthi ya kubeba mbanana";
+        break;
     default:
         echo "You have no car, keep grinding💪🏽";
 }
@@ -61,7 +70,6 @@ switch ($mycar) {
 // 2. do ... while loop
 /*
 $num2 = 11;
-
 do {
     echo "The number is $num2 <br>";
     $num++;
