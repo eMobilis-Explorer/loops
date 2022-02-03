@@ -27,8 +27,8 @@ do {
 } while ($y <= 60);
 // .switch
 echo "<h3>Switch statement for random car type</h3> <hr>";
-$mycars = array("limousine", "convertible", "minivan", "pickup", "sports car", "Formula1 car", "sedan", "landrover defender", "probox", "ford");
-$mycar = $mycars[mt_rand(0, 9)];
+$mycars = array("limousine", "convertible", "minivan", "pickup", "sports car", "Formula1 car", "sedan", "landrover defender", "probox", "nduthi","peugeot");
+$mycar = $mycars[mt_rand(0, 10)];
 switch ($mycar) {
     case 'limousine':
         echo "You have a $mycar , keep the drinks coming🍾";
@@ -60,6 +60,9 @@ switch ($mycar) {
         break;
     case 'nduthi':
         echo "You have a $mycar , nduthi ya kubeba mbanana";
+        break;
+    case 'peugeout':
+        echo "You have a $mycar , how expensive is gas?";
         break;
     default:
         echo "You have no car, keep grinding💪🏽";
