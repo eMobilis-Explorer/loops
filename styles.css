@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #FBF8F1;
+    margin: 4rem 0;
+}
+
+.mystyles {
+    font-size: 1.2rem;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    text-align: center;
+}
+
+.myheadings {
+    font-size: 2rem;
+    font-family: 'Comforter', cursive;
+    text-align: center;
+    letter-spacing: .4rem;
+    background: #FF9F45;
+    margin: .3rem 32%;
+    padding: 1.2rem;
+
+}
+
+.car {
+    padding: 1rem 0;
+    font-size: 2rem;
+}
