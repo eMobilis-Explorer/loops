@@ -84,7 +84,10 @@ For and foreach looping:
 - GitHub - [Leskim](https://github.com/Leskim)
 
 
+
 ## Acknowledgments
 
- - Collaborator : My friend [Collins Kibiwot]
- - I did the collaboration on ths with the help of [@kibithegreat](https://github.com/kibiwotkosgei)
+ - Collaborators : My friend [Collins Kibiwot] - [@kibithegreat](https://github.com/kibiwotkosgei)
+                 : Charles Muia - GitHub - [Charles Muia ](https://github.com/Charles-Muia)
+                 : Zacharia Njiraini - GitHub - [Zacharia Njiraini ](https://github.com/maaszaxxs)
+ 
