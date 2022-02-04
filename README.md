@@ -47,14 +47,14 @@ For and foreach looping:
 
 - The process was as follows:-
   - I first sent him an invite to collaborate from the `settings` in my repository
-  - I invited him and granted him write access to the repo
+  - I invited him and granted him write acces to the repo
 
     - First he initialized git to clone the repo locally where he wanted the files e.g (/c/xaamp/htdocs/phplearn) with `git init`.
     - He then cloned the repository to his local machine `git clone https://github.com/eMobilis-Explorer/loops.git` 
-    - Next he did the changes to the `loops.php` file by adding the new types of cars to it
+    - Next he did the changes to the `loop.php` file by adding the new types of cars to it
     - Thereafter he created a new branch to commit the changes to it (NOTE MAKING CHANGES DIRECTLY TO THE MASTER BRANCH WONT ALLOW FOR MERGING THE REPOS)
     - Creating new branch `git checkout -b kibi` (kibi is the branch name - can be anything )
-    - After this is now the normal process `git add loops.php` then `git commit -m "Commit Message"` and finally `git push origin kibi` -- (note pushing is to your branch not to the master branch)
+    - After this is now the normal process `git add loop.php` then `git commit -m "Commit Message"` and finally `git push origin kibi` -- (note pushing is to your branch not to the master branch)
     - Done the changes are now remotely on github
  
   - The `merging part` now falls on the owner of the repository me in this case
