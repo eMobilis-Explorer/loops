@@ -88,6 +88,13 @@ while ($num <= 10) {
         case 'subaru forester':
             echo"<p class='mystyles car'>You have a $mycar , dereva! dereva! chunga maisha?</p>";
             break;
+            //Maaszaxxs cases
+        case 'mazda':
+            echo"<p class='mystyles car'>You have a $mycar , the car in front of you is always a CX5</p>";
+            break;
+        case 'jeep':
+            echo"<p class='mystyles car'>You have a $mycar , what are potholes to you?</p>";
+            break;
         default:
             echo "<p class='mystyles car'>You have no car, keep grinding💪🏽</p>";
     }
