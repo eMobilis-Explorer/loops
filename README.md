@@ -1,4 +1,4 @@
-# eMobilis - Second Challengee/ Assignment(PHP Looping)
+# eMobilis - Second Challenge/ Assignment(PHP Looping)
 
 This is a solution to my second eMobilis Expolorer class Assignment
 We were to learning on loops using while, do .. while, `switch`, for, and foreach loop types
@@ -52,7 +52,7 @@ For and foreach looping:
     - First he initialized git to clone the repo locally where he wanted the files e.g (/c/xaamp/htdocs/phplearn) with `git init`.
     - He then cloned the repository to his local machine `git clone https://github.com/eMobilis-Explorer/loops.git` 
     - Next he did the changes to the `loop.php` file by adding the new types of cars to it
-    - Thereafter he created a new branch to commit the changes to it (NOTE MAKING CHANGES DIRECTLY IT TO THE MASTER BRANCH WONT ALLOW FOR MERGING THE REPOS)
+    - Thereafter he created a new branch to commit the changes to it (NOTE MAKING CHANGES DIRECTLY TO THE MASTER BRANCH WONT ALLOW FOR MERGING THE REPOS)
     - Creating new branch `git checkout -b kibi` (kibi is the branch name - can be anything )
     - After this is now the normal process `git add loop.php` then `git commit -m "Commit Message"` and finally `git push origin kibi` -- (note pushing is to your branch not to the master branch)
     - Done the changes are now remotely on github
@@ -86,5 +86,5 @@ For and foreach looping:
 
 ## Acknowledgments
 
- - Collaborator > My friend [@kibithegreat]
- - LI did the collaboration on ths with the help of [@kibithegreat](https://github.com/kibiwotkosgei)
+ - Collaborator : My friend [Collins Kibiwot]
+ - I did the collaboration on ths with the help of [@kibithegreat](https://github.com/kibiwotkosgei)
