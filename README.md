@@ -1,7 +1,9 @@
 # eMobilis - Third Challenge/ Assignment(Function Challenge)
 
 This is a solution to my third eMobilis Expolorer class Assignment
+
 We were to learning on functions and were to create a function that takes multiple variables to achieve something 
+
 NOTE : This still has my second challenge files and its README file can be found in the `master` or  `maaszaxxs` branches
 
 ## Table of contents
@@ -9,9 +11,7 @@ NOTE : This still has my second challenge files and its README file can be found
 - [Overview](#overview)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
