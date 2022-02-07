@@ -39,7 +39,7 @@ For and foreach looping:
 
  ### Screenshot
 
-![](funct.png)
+![](./functions/funct.png)
 
 - The outcome of running the functions
 
