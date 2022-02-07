@@ -15,7 +15,8 @@ body {
     text-align: center;
 }
 
-.myheadings {
+.myheadings,
+.afconh2 {
     font-size: 2rem;
     font-family: 'Comforter', cursive;
     text-align: center;
@@ -29,4 +30,27 @@ body {
 .car {
     padding: 1rem 0;
     font-size: 2rem;
+}
+
+.afconh2 {
+    margin-bottom: 2rem;
+    /* padding: 1.2rem 0; */
+}
+
+.afcon {
+    font-size: 1.5rem;
+    padding-bottom: 1.2rem;
+}
+
+.afcon span {
+    background: #8BDB81;
+    padding: 0 .7rem;
+}
+
+.winner span {
+    font-size: 1.6rem;
+    padding: 0 .5rem;
+    letter-spacing: .1rem;
+    background: #222;
+    color: #F76E11;
 }
