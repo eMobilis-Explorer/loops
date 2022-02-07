@@ -1,4 +1,4 @@
-# eMobilis - Second Challenge/ Assignment(PHP Looping)
+# eMobilis - Third Challenge/ Assignment(Function Challenge)
 
 This is a solution to my second eMobilis Expolorer class Assignment
 We were to learning on loops using while, do .. while, `switch`, for, and foreach loop types
@@ -19,8 +19,11 @@ We were to learning on loops using while, do .. while, `switch`, for, and foreac
 - while and do ... while loops
 - switch statement
 - for and foreach loops
+-function challenge in the functions folder
 
 ## My process
+
+Added the function challenge which took four variables `year`, `first team` and `second team ` and used it to display the winner of that years AFCON cup.
 
 While and do ... while looping:
  -Here did an while loop for a certain number x with an increment of x+=y upto a certain value z 
@@ -33,6 +36,12 @@ For and foreach looping:
  - For the `for loop did an echo of numbers from num i = 10 with a single value decrement i-- upto the value i=0
 
  - For the `foreach` loop did an echo of all the `types of cars` in the `mycars` array 
+
+ ### Screenshot
+
+![](funct.png)
+
+- The outcome of running the functions
 
 ### Built with
 
