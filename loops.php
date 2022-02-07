@@ -43,8 +43,8 @@ while ($num <= 10) {
     // .switch
     echo "<h3 class = 'myheadings'>Switch statement for random car type</h3>  ";
 
-    // ADD CARS HERE 
-    $mycars = array("limousine", "convertible", "minivan", "pickup", "sports car", "Formula1 car", "sedan", "landrover defender", "probox", "nduthi", "peugeout", "subaru forester", "mazda", "jeep");
+    // ADD CARS HERE
+    $mycars = array("Bugatti Chiron Super Sport","limousine", "convertible", "minivan", "pickup", "sports car", "Formula1 car", "sedan", "landrover defender", "probox", "nduthi", "peugeout", "subaru forester", "mazda", "jeep");
     // ADD the length or random numbers according to the cars added
     $mycar = $mycars[mt_rand(0, count($mycars))];
 
@@ -52,6 +52,9 @@ while ($num <= 10) {
         case 'limousine':
             echo "<p class='mystyles car'>You have a $mycar , keep the drinks coming🍾</p>";
             break;
+        case "Bugatti Chiron Super Sport":
+                echo "<p class='mystyles car'>You have a $mycar , Things are about to be fast</p>";
+                break;
         case "convertible":
             echo "<p class='mystyles car'>You have a $mycar , how's the ozone looking😉</p>";
             break;
