@@ -98,6 +98,9 @@ while ($num <= 10) {
         case 'jeep':
             echo"<p class='mystyles car'>You have a $mycar , what are potholes to you?</p>";
             break;
+        case 'Piki-piki ponki':
+            echo"<p class='mystyles car'>You have a $mycar , Why can't you head to the Supreme Court ASAP?</p>";
+        break;
         default:
             echo "<p class='mystyles car'>You have no car, keep grinding💪🏽</p>";
     }
